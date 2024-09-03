@@ -1,5 +1,5 @@
 
-### Portfolio Website for Srinivas Sampath
+### Portfolio-Simple-Website
 
 This repository contains the source code for a personal portfolio website for Srinivas Sampath, a web developer. The website is built using HTML and CSS and showcases a clean, modern design. It features two main pages:
 
