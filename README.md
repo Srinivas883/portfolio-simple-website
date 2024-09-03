@@ -1,4 +1,3 @@
-## GitHub Repository Description
 
 ### Portfolio Website for Srinivas Sampath
 
